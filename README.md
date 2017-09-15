@@ -1,4 +1,4 @@
-/`# qiushibaike-crawler
+# qiushibaike-crawler
 Interpreter Version: `python2.7`<br/>
 Dependencies: `urllib2`, `re`<br/>
 ## Instruction
